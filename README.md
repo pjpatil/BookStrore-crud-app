@@ -53,3 +53,19 @@ BooksStore/  \
 - Create endpoints using RestController in the controller folder.
 # 4.Run the application:
 `mvn spring-boot:run`
+
+## Frontend - ReactJS Setup 
+
+1. Navigate to the frontend folder:/
+  ` cd frontend `
+2. Create a new React application:
+   ` npx create-react-app . `
+3. Install additional packages (if needed):
+  ` npm install axios react-router-dom `
+4. Create necessary components under the components folder:
+  - Example: `BooksList.js`, `AddBook.js`, etc.
+
+5. Start the React application:
+  ` npm start `
+
+
