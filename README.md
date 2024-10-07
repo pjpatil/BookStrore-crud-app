@@ -1,4 +1,4 @@
-# BookStrore-crud-app
+## BookStrore-crud-app
 using Spring boot and React Js.
 
 Folder Structure
@@ -34,7 +34,10 @@ BooksStore/  \
 │   ├── package.json \
 │   └── README.md \
 │ \
-└── README.md \
+└── README.md 
+
+#Backend - Spring Boot Setup
+1.Create the Spring Boot project using Spring Initializr:
 
 
 
