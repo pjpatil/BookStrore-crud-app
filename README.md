@@ -38,8 +38,7 @@ BooksStore/  \
 
 ## Backend - Spring Boot Setup <br>
 # 1.Create the Spring Boot project using Spring Initializr:
-
-
+`mvn archetype:generate -DgroupId=com.bookstore -DartifactId=backend -Dversion=1.0-SNAPSHOT  `
 # 2.Add necessary dependencies to `pom.xml`:
 - Spring Web
 - Spring Data JPA
@@ -48,9 +47,9 @@ BooksStore/  \
 - Create a controller, service, and repository:
 
 # 3.Define your BooksStoreApplication.java file under com/bookstore.
-Set up your entity classes in the model folder.
-Define JPA repositories in the repository folder.
-Implement business logic in the service folder.
-Create endpoints using RestController in the controller folder.
-Run the application:
-
+- Set up your entity classes in the model folder.
+- Define JPA repositories in the repository folder.
+- Implement business logic in the service folder.
+- Create endpoints using RestController in the controller folder.
+# 4.Run the application:
+`mvn spring-boot:run`
