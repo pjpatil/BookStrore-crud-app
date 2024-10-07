@@ -11,30 +11,30 @@ BooksStore/  \
 │   │   │   ├── java/ \
 │   │   │   │   └── com/ \
 │   │   │   │       └── bookstore/ \
-│   │   │   │           ├── BooksStoreApplication.java
-│   │   │   │           ├── controller/
-│   │   │   │           ├── model/
-│   │   │   │           ├── repository/
-│   │   │   │           └── service/
-│   │   │   └── resources/
-│   │   │       ├── application.properties
-│   │   │       └── static/
-│   │   └── test/
-│   │       └── java/
-│   ├── pom.xml
-│   └── README.md
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── styles/
-│   ├── package.json
-│   └── README.md
-│
-└── README.md
+│   │   │   │           ├── BooksStoreApplication.java \
+│   │   │   │           ├── controller/ \
+│   │   │   │           ├── model/ \
+│   │   │   │           ├── repository/ \
+│   │   │   │           └── service/ \
+│   │   │   └── resources/  \
+│   │   │       ├── application.properties \
+│   │   │       └── static/ \
+│   │   └── test/ \
+│   │       └── java/ \
+│   ├── pom.xml \
+│   └── README.md \
+│ \
+├── frontend/ \
+│   ├── public/ \
+│   ├── src/ \
+│   │   ├── components/ \
+│   │   ├── App.js \
+│   │   ├── index.js \
+│   │   └── styles/ \
+│   ├── package.json \
+│   └── README.md \
+│ \
+└── README.md \
 
 
 
