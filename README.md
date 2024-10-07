@@ -39,14 +39,13 @@ BooksStore/  \
 ## Backend - Spring Boot Setup <br>
 # 1.Create the Spring Boot project using Spring Initializr:
 
-`in`
-Add necessary dependencies to `pom.xml`:
 
-# 2.Spring Web
--Spring Data JPA
--H2 Database (for development)
--Spring Boot DevTools (optional)
--Create a controller, service, and repository:
+# 2.Add necessary dependencies to `pom.xml`:
+- Spring Web
+- Spring Data JPA
+- H2 Database (for development)
+- Spring Boot DevTools (optional)
+- Create a controller, service, and repository:
 
 # 3.Define your BooksStoreApplication.java file under com/bookstore.
 Set up your entity classes in the model folder.
