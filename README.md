@@ -36,8 +36,22 @@ BooksStore/  \
 │ \
 └── README.md 
 
-#Backend - Spring Boot Setup <br>
-1.Create the Spring Boot project using Spring Initializr:
+## Backend - Spring Boot Setup <br>
+# 1.Create the Spring Boot project using Spring Initializr:
 
-`git init`
+`in`
+Add necessary dependencies to `pom.xml`:
+
+# 2.Spring Web
+-Spring Data JPA
+-H2 Database (for development)
+-Spring Boot DevTools (optional)
+-Create a controller, service, and repository:
+
+# 3.Define your BooksStoreApplication.java file under com/bookstore.
+Set up your entity classes in the model folder.
+Define JPA repositories in the repository folder.
+Implement business logic in the service folder.
+Create endpoints using RestController in the controller folder.
+Run the application:
 
