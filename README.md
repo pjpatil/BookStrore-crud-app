@@ -4,8 +4,8 @@ using Spring boot and React Js.
 Folder Structure
 
 #code \
-BooksStore/
-├── backend/
+BooksStore/  \ 
+├── backend/ \
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/
