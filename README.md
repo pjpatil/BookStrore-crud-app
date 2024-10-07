@@ -56,16 +56,16 @@ BooksStore/  \
 
 ## Frontend - ReactJS Setup 
 
-1. Navigate to the frontend folder:/
+1. Navigate to the frontend folder:<br>
   ` cd frontend `
-2. Create a new React application:
+2. Create a new React application:<br>
    ` npx create-react-app . `
-3. Install additional packages (if needed):
+3. Install additional packages (if needed):<br>
   ` npm install axios react-router-dom `
-4. Create necessary components under the components folder:
+4. Create necessary components under the components folder:<br>
   - Example: `BooksList.js`, `AddBook.js`, etc.
 
-5. Start the React application:
+5. Start the React application:<br>
   ` npm start `
 
 
