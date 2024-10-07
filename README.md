@@ -3,7 +3,7 @@ using Spring boot and React Js.
 
 Folder Structure
 
-#code
+#code \
 BooksStore/
 ├── backend/
 │   ├── src/
