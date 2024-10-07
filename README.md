@@ -4,13 +4,13 @@ using Spring boot and React Js.
 Folder Structure
 
 #code \
-BooksStore/  \ 
+BooksStore/  \
 ├── backend/ \
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── com/
-│   │   │   │       └── bookstore/
+│   ├── src/ \
+│   │   ├── main/ \
+│   │   │   ├── java/ \
+│   │   │   │   └── com/ \
+│   │   │   │       └── bookstore/ \
 │   │   │   │           ├── BooksStoreApplication.java
 │   │   │   │           ├── controller/
 │   │   │   │           ├── model/
