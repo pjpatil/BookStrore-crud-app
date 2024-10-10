@@ -30,7 +30,7 @@ BooksStore/  \
 │   │   ├── components/ \
 │   │   ├── App.js \
 │   │   ├── index.js \
-│   │   └── styles/ \
+│   │   └── styles \
 │   ├── package.json \
 │   └── README.md \
 │ \
